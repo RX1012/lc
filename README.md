@@ -1,4 +1,2 @@
-# lc
-# lc
-# lc
-# lc
+# Leetcode
+
