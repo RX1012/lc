@@ -6,6 +6,7 @@ public class L_35 {
         a.search_35(nums, target);
     }
 }
+
 class Solution_35 {
     public int search_35(int[] nums, int target) {
         if (target < nums[0] ) {
