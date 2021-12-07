@@ -29,5 +29,4 @@ class Solution{
         System.out.println("not in the list");
         return -1;
     }
-
 }
