@@ -4,7 +4,6 @@ public class L_34 {
         int target = 8;
         solution_34 a = new solution_34();
         a.search_34(nums, target);
-
     }
 }
 class solution_34{
